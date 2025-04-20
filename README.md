@@ -1,6 +1,6 @@
-# Portfolio-mathis
+# Portfolio Mathis
 
-Mon portfolio personnel créé avec Next.js et déployé sur GitHub Pages.
+Mon portfolio personnel créé avec Next.js
 
 ## Technologies utilisées
 
